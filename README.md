@@ -1,2 +1,3 @@
 # espengokshol.github.io
-Laget en enkel side som forteller om Mads er sammen med Silja eller ikke
+Har et lite bilde av en Destiny karakter
+lagt til //future:true for at den teoretisk skal oppdatere nå istedenfor å vente på amerikanske servere
